@@ -74,7 +74,7 @@ A classic Snake Game built with Python and Pygame. This game comes with sound ef
 ## 🎥 Gameplay Video
 
 Watch the gameplay video here:  
-[![Snake Game Gameplay](https://github.com/hamzza07x/Snake-game/blob/main/Gameplay.mkv)
+[![Snake Game Gameplay](https://github.com/hamzza07x/Snake-game/blob/main/S2.png)](https://github.com/hamzza07x/Snake-game/blob/main/Gameplay.mkv)
 ## 🎥 Gameplay Video
 
 Watch the gameplay video here:  
@@ -83,5 +83,5 @@ Watch the gameplay video here:
 
 
 ## 📜 License
-This project is open-source and free to use under the ![Start Screen](https://opensource.org/license/mit) .
+This project is open-source and free to use under the ![[Start Screen](https://i0.wp.com/opensource.org/wp-content/uploads/2023/03/cropped-OSI-horizontal-large.png?fit=640%2C229&ssl=1)](https://opensource.org/license/mit) .
 
