@@ -46,7 +46,7 @@ A classic Snake Game built with Python and Pygame. This game comes with sound ef
 
 ### 1️⃣ Install via EXE (Recommended)
 #### 📥 Steps:
-1. Download the latest `Snakegameinstaller.exe` from the [Releases](https://github.com/your-username/your-repo/releases) section.
+1. Download the latest `Snakegameinstaller.exe` from the [Releases](https://github.com/hamzza07x/Snake-game/releases/tag/release-v1) section.
 2. Run the installer and follow the on-screen instructions.
 3. After installation, double-click the **Snake Game** icon to start playing!
 
@@ -62,8 +62,25 @@ A classic Snake Game built with Python and Pygame. This game comes with sound ef
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-cd your-repo
-python main.py
+-cd your-repo
+-python main.py
+## 🖼 Screenshots
 
-This project is open-source and free to use under the MIT License.
+| Game Start | During Play | Game Over |
+|-----------|------------|----------|
+| ![Start Screen](https://github.com/hamzza07x/Snake-game/blob/main/S1.png) | ![Gameplay](https://github.com/hamzza07x/Snake-game/blob/main/S2.png) | ![Game Over](https://github.com/hamzza07x/Snake-game/blob/main/S3.png) |
+
+## 🎥 Gameplay Video
+
+Watch the gameplay video here:  
+[![Snake Game Gameplay](https://github.com/hamzza07x/Snake-game/blob/main/Gameplay.mkv)
+## 🎥 Gameplay Video
+
+Watch the gameplay video here:  
+[![Snake Game Gameplay](https://img.youtube.com/vi/Ru5nGD7hUf0/0.jpg
+)](https://www.youtube.com/watch?v=Ru5nGD7hUf0)
+
+
+
+This project is open-source and free to use under the ![Start Screen](https://opensource.org/license/mit) .
 
