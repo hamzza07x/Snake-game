@@ -3,14 +3,14 @@
 A classic Snake Game built with Python and Pygame. This game comes with sound effects, scoring, and a smooth gameplay experience.
 
 ## 📑 Table of Contents
-- [Features](#features)
-- [Tools Used](#tools-used)
+- [Features](#✨-Features)
+- [Tools Used](#🛠-Tools-Used)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
   - [1️⃣ Install via EXE (Recommended)](#1️⃣-install-via-exe-recommended)
   - [2️⃣ Run from Source Code](#2️⃣-run-from-source-code)
 - [Screenshots](#screenshots)
--  [Gameplay Video](#GameplayVideo)
+-  [Gameplay Video](#Gameplay-Video)
 - [License](#license)
 
 ---
