@@ -24,15 +24,15 @@ A classic Snake Game built with Python and Pygame. This game comes with sound ef
 ---
 
 ## 🛠 Tools Used
-| Tool | Icon |
-|-----|------|
-| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| Pygame | ![Pygame](https://img.shields.io/badge/-Pygame-159f28?style=for-the-badge&logo=pygame&logoColor=white) |
-| Inno Setup Compiler | ![Inno Setup](https://img.shields.io/badge/-Inno%20Setup-075571?style=for-the-badge&logo=windows&logoColor=white) |
-| VS Code | ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| GitHub | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
----
+| Tool                 | Icon |
+|----------------------|------|
+| **Python**           | <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/> |
+| **Pygame**           | <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" width="40"/> |
+| **Inno Setup Compiler** | <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="40"/> |
+| **Visual Studio Code** | <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40"/> |
+| **GitHub**           | <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/> |
+
 
 ## 🎮 How to Play
 - Use **Arrow Keys** to move the snake.
