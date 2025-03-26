@@ -47,9 +47,10 @@ A classic Snake Game built with Python and Pygame. This game comes with sound ef
 
 ### 1️⃣ Install via EXE (Recommended)
 #### 📥 Steps:
-1. Download the latest `Snakegameinstaller.exe` from the [Releases](https://github.com/hamzza07x/Snake-game/releases/tag/release-v1) section.
-2. Run the installer and follow the on-screen instructions.
-3. After installation, double-click the **Snake Game** icon to start playing!
+1. Download the latest `Snakegameinstaller.exe` from the [Latest Releases](https://github.com/hamzza07x/Snake-game/releases/tag/release-v1.0) section.
+2. Download older version if you want from the [Release v1](https://github.com/hamzza07x/Snake-game/releases/tag/release-v1)
+3. Run the installer and follow the on-screen instructions.
+4. After installation, double-click the **Snake Game** icon to start playing!
 
 ---
 
